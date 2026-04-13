@@ -23,4 +23,5 @@ int main(){
      else{
         printf("Os valores digitados não correspondem a uma equação do 2º Grau com duas raízes reais!\n");
      }
+    return 0;
 }
