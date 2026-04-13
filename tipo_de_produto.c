@@ -23,4 +23,5 @@ int main(){
     else{
         printf("Invalido\n");
     }
+    return 0;
 }
